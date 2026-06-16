@@ -1,4 +1,4 @@
-package Geolocalizacion.Ms.Geolocalizacion;
+package Geolocalizacion.ms.geo;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
